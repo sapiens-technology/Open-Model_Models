@@ -10,7 +10,9 @@ Models designed for customization with Sapiens Technology®️ client data.
   <p>These characteristics make them ideal for creating customized models without the noise associated with highly general-purpose training data.</p>
 </div>
 
-> The **Open-Model** family of models features open weights; however, these weights are in a proprietary **Sapiens Technology®️** format and can only be loaded, read, and modified using our internal tools, made available to our subscribing clients.
+<blockquote style="margin-left: 0; padding-left: 16px; border-left: 4px solid #ccc; color: #666; text-align: justify;">
+  The **Open-Model** family of models features open weights; however, these weights are in a proprietary **Sapiens Technology®️** format and can only be loaded, read, and modified using our internal tools, made available to our subscribing clients.
+</blockquote>
 
 | Download Command                | Parameters   | Model Size | Disk Space | VRAM    |
 | ------------------------------- | ------------ | ---------- | ---------- | ------- |
