@@ -1,5 +1,14 @@
-# Open-Model_Models
+![Banner](banner-open-model.jpeg)
+
 Models designed for customization with Sapiens Technology®️ client data.
+
+# Open-Model_Models
+
+<div align="justify">
+  <p>The Open-Model family models are not intended to be frontier models. They were trained solely to communicate fluently and naturally in multiple languages, including English, Portuguese, and Spanish, eliminating the main bottleneck in model training: learning linguistic and semantic patterns.</p>
+  <p>Their purpose is to facilitate the development of proprietary and specialized models without requiring developers to train a model from scratch to learn linguistic patterns before specializing it. Models in this family have already been fine-tuned to support chat-based conversations and follow simple instructions with a low level of complexity.</p>
+  <p>These characteristics make them ideal for creating customized models without the noise associated with highly general-purpose training data.</p>
+</div>
 
 | Download Command                | Parameters   | Model Size | Disk Space | VRAM    |
 | ------------------------------- | ------------ | ---------- | ---------- | ------- |
@@ -31,4 +40,15 @@ Models designed for customization with Sapiens Technology®️ client data.
 | `sapilm --get open-model-12.5b` | 12.5 billion | 12.1 GB    | 24.2 GB    | 16 GB   |
 | `sapilm --get open-model-14b`   | 14 billion   | 15 GB      | 30 GB      | 18 GB   |
 | `sapilm --get open-model-15b`   | 15 billion   | 15 GB      | 30 GB      | 19 GB   |
+
+<div align="justify">
+  <p>We do not accept contributions that could result in the modification of the original models, under any circumstances. Only members of the <strong>Sapiens Technology®️</strong> research and development team may contribute to the original models in this repository; this includes weights, code, and documentation.</p>
+</div>
+
+## License
+
+<div align="justify">
+  <p>The downloading, copying, and distribution of this models are permitted for any <strong>Sapiens Technology®️</strong> subscription customer. Our customers are free to further train this models using continued pretraining and fine-tuning techniques natively supported by the <code>SapiLM</code> engine. <strong>Sapiens Technology®️</strong> subscription customers are authorized to use this models as they see fit, without any restrictions or limitations.</p>
+  <p>Users and developers who are <strong>not</strong> <strong>Sapiens Technology®️</strong> subscribers are not authorized to download, further train, distribute, and/or modify this models. Failure to comply with these guidelines may result in legal action pursued by our team of lawyers.</p>
+</div>
 
