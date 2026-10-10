@@ -41,6 +41,8 @@ Models designed for customization with Sapiens Technology®️ client data.
 | `sapilm --get open-model-14b`   | 14 billion   | 15 GB      | 30 GB      | 18 GB   |
 | `sapilm --get open-model-15b`   | 15 billion   | 15 GB      | 30 GB      | 19 GB   |
 
+## Contributing
+
 <div align="justify">
   <p>We do not accept contributions that could result in the modification of the original models, under any circumstances. Only members of the <strong>Sapiens Technology®️</strong> research and development team may contribute to the original models in this repository; this includes weights, code, and documentation.</p>
 </div>
