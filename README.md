@@ -5,10 +5,12 @@ Models designed for customization with Sapiens Technology®️ client data.
 # Open-Model_Models
 
 <div align="justify">
-  <p>The Open-Model family models are not intended to be frontier models. They were trained solely to communicate fluently and naturally in multiple languages, including English, Portuguese, and Spanish, eliminating the main bottleneck in model training: learning linguistic and semantic patterns.</p>
+  <p>The **Open-Model** family models are not intended to be frontier models. They were trained solely to communicate fluently and naturally in multiple languages, including English, Portuguese, and Spanish, eliminating the main bottleneck in model training: learning linguistic and semantic patterns.</p>
   <p>Their purpose is to facilitate the development of proprietary and specialized models without requiring developers to train a model from scratch to learn linguistic patterns before specializing it. Models in this family have already been fine-tuned to support chat-based conversations and follow simple instructions with a low level of complexity.</p>
   <p>These characteristics make them ideal for creating customized models without the noise associated with highly general-purpose training data.</p>
 </div>
+
+> The **Open-Model** family of models features open weights; however, these weights are in a proprietary **Sapiens Technology®️** format and can only be loaded, read, and modified using our internal tools, made available to our subscribing clients.
 
 | Download Command                | Parameters   | Model Size | Disk Space | VRAM    |
 | ------------------------------- | ------------ | ---------- | ---------- | ------- |
