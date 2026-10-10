@@ -11,6 +11,8 @@ Models designed for customization with Sapiens Technology®️ client data.
   <p><sup>The **Open-Model** family of models features open weights; however, these weights are in a proprietary **Sapiens Technology®️** format and can only be loaded, read, and modified using our internal tools, made available to our subscribing clients.</sup></p>
 </div>
 
+---
+
 | Download Command                | Parameters   | Model Size | Disk Space | VRAM    |
 | ------------------------------- | ------------ | ---------- | ---------- | ------- |
 | `sapilm --get open-model-0.1b`  | 100 million  | 355 MB     | 710 MB     | 0.7 GB  |
@@ -41,6 +43,8 @@ Models designed for customization with Sapiens Technology®️ client data.
 | `sapilm --get open-model-12.5b` | 12.5 billion | 12.1 GB    | 24.2 GB    | 16 GB   |
 | `sapilm --get open-model-14b`   | 14 billion   | 15 GB      | 30 GB      | 18 GB   |
 | `sapilm --get open-model-15b`   | 15 billion   | 15 GB      | 30 GB      | 19 GB   |
+
+---
 
 ## Contributing
 
